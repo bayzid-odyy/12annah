@@ -55,7 +55,7 @@ var flkty = new Flickity( elem, {
   friction: 0.8,
   groupCell: true,
   lazyLoad: true,
-autoPlay: 5000,
+autoPlay: 6000,
 pauseAutoPlayOnHover: true
 
 });
